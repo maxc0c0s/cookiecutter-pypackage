@@ -55,7 +55,7 @@ docs:
 	$(MAKE) -C docs html
 
 docs-view: docs
-        xdg-open docs/_build/html/index.html
+	xdg-open docs/_build/html/index.html
 
 release: clean
 	python setup.py sdist upload
