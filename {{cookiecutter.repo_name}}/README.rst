@@ -11,10 +11,14 @@
 .. image:: https://pypip.in/d/{{ cookiecutter.repo_name }}/badge.png
         :target: https://pypi.python.org/pypi/{{ cookiecutter.repo_name }}
 
+.. image:: https://readthedocs.org/projects/{{ cookiecutter.repo_name }}/badge/?version=latest
+        :target: https://readthedocs.org/projects/{{ cookiecutter.repo_name }}/?badge=latest
+        :alt: Documentation Status
+
 
 {{ cookiecutter.project_short_description}}
 
-* Free software: BSD license
+* Free software: GNU GPL v3.0 license
 * Documentation: https://{{ cookiecutter.repo_name }}.readthedocs.org.
 
 Features
