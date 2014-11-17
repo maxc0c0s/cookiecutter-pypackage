@@ -34,7 +34,7 @@ setup(
                  '{{ cookiecutter.repo_name }}'},
     include_package_data=True,
     install_requires=requirements,
-    license="BSD",
+    license="GNU GPL v3.0",
     zip_safe=False,
     keywords='{{ cookiecutter.repo_name }}',
     classifiers=[
